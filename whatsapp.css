@@ -1,0 +1,140 @@
+.bg-dark{
+background-color: #1ebea5 !important;
+
+}
+
+.nav-link{
+color: white !important;
+font-weight: bold;
+margin: 15px;
+font-size: medium;
+margin-bottom: 10px;
+font-style: italic;
+}
+.navbar-brand{
+color: white !important;
+font-weight: bold;
+font-size: x-large;
+font-style: italic;
+}
+.nav-link:hover{
+font-family: cursive;
+font-size: 20px;
+}
+.navbar-brand:hover{
+  font-family: cursive;
+font-size: 30px;
+
+}
+.uls{
+      list-style: none;
+      text-align: center;
+    } 
+  .whatsappimage{
+margin-left: 10px;
+  }
+  .image{
+
+width:300px ;
+  }
+.heading{
+text-align: center;
+list-style: none !important;
+margin-top: 30px;
+color:rgb(0, 0, 0) !important;
+font-weight: bold;
+text-shadow: 1px 1px  red !important;
+font-style: italic;
+
+
+}
+#headings{
+  font-size: 24px;
+  color:black !important;
+  text-shadow: 1px 3px 1px white !important;
+  font-weight: bold;
+  margin-top: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+  font-style: italic;
+}
+
+#praghrs{
+text-align: center;
+font-weight: bold;
+color:black !important;
+text-shadow: 1px 3px 1px white !important;
+font-style: italic;
+}
+
+.fa-android, .fa-apple, .fa-desktop {
+    color: rgb(10, 50, 66)!important;
+    padding: 10px;
+}
+
+
+
+.abc{
+  /* background-color: #a5faed !important; */
+  background-color: #c3e7e3 !important;
+
+
+}
+.xyz{
+  /* background-color: #c3e7e3 !important; */
+  background-color: rgb(217, 219, 223) !important;
+
+
+}
+.and{
+margin-top: 80px;
+}
+
+
+
+@media only screen and (max-width: 800px) {
+  .www{
+   margin-top: 100px;
+   
+  }
+}
+.images{
+height: 450px;
+width: 300px;
+
+}
+.btn-secondary{
+ color:rgb(209, 231, 8) !important; 
+ font-weight: bold; 
+  background-color:rgb(10, 50, 66) !important;
+ border: none;
+  height:60px;
+ width: 250px;
+ text-align: center;
+ margin-left: 40px;
+
+
+}
+.btn-secondary:hover{
+background-color:#078673 !important;
+font-family: cursive;
+
+}
+.ands{
+  background-color: rgb(11, 11, 58)!important;
+cursor: grab !important;
+}
+.andes{
+  background-color: rgb(8, 8, 68)!important;
+cursor: grab;
+}
+.Hadis{
+  color: white !important;
+  font-weight: bold;
+}
+.and{
+  color: white !important;
+  
+  font-weight: bold;
+text-align: center;
+}
